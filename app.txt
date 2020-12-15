@@ -1,5 +1,5 @@
 AppOK
-AppVersion: 01.20
+AppVersion: 01.00
 MinVersion: 01.00
 MessageYes: Y, 01.00, 005
 Messagetex: 021, Nothing, just google!
