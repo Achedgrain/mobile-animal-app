@@ -1,3 +1,7 @@
 AppOK
 AppVersion: 01.20
 MinVersion: 01.00
+MessageYes: Y, 01.00, 005
+Messagetex: 021, Nothing, just google!
+LinkText: 007, Google!
+Link: 010, google.com
