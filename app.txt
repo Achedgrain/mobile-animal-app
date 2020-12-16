@@ -4,4 +4,4 @@ MinVersion: #01.00#
 MessageYes: #Y#01.00# 005#
 Messagetex: #Nothing just google!#
 LinkText: #Google!#
-aLink: #google.com#
+aLink: #www.google.com#
