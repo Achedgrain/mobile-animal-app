@@ -1,7 +1,7 @@
 AppOK#
-AppVersion: #01.10#
+AppVersion: #01.00#
 MinVersion: #01.00#
-MessageYes: #Y#01.02# 003#
+MessageYes: #Y#01.00# 005#
 Messagetex: #Nothing just google!#
 LinkText: #Google!#
 aLink: #www.google.com#
