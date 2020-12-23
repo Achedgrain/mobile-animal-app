@@ -1,5 +1,5 @@
 AppOK#
-AppVersion: #01.00#
+AppVersion: #01.20#
 MinVersion: #01.00#
 MessageYes: #Y#01.01#010#
 Messagetex: #Please take a look at our new app!#
