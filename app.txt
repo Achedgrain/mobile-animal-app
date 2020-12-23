@@ -1,4 +1,4 @@
-AppOK#
+AppNO#
 AppVersion: #01.20#
 MinVersion: #01.10#
 MessageYes: #Y#01.01#020#
