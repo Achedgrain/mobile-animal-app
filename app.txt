@@ -1,6 +1,6 @@
 AppOK#
-AppVersion: #01.03#
-MinVersion: #01.02#
+AppVersion: #01.01#
+MinVersion: #01.01#
 MessageYes: #N#01.00#005#
 Messagetex: #Please take a look at our new app!#
 LinkText: #Entersafement!#
