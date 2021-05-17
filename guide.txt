@@ -1,0 +1,2 @@
+//MessageYes: Y/N, vv.vv, nnn  ->v:version, n:number of repeats
+//MessageTex: ccc, "" -> c:number of characters, "":message
