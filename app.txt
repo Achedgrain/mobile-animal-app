@@ -4,7 +4,7 @@ MinVersion: #01.01#
 MessageYes: #Y#01.00#005#
 Messagetex: #Thank you for downloading Zookidi-3D.     For a limited time, the full version is free. #
 LinkText: #Our website#
-aLink: #https://applichild.github.io/#
+aLink: #There should be a link here#
 Get the best 3D animal game and animations app in the world with animals flying or living on the farm, jungle, pole, and ocean:
 Google play: https://play.google.com/store/apps/details?id=com.AppliChild.Zookidi
 App store: https://play.google.com/store/apps/details?id=com.AppliChild.Zookidi
