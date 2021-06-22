@@ -6,5 +6,5 @@ Messagetex: #Thanks for downloading Zookidi.               For a limited time, g
 LinkText: ##
 aLink: #https://applichild.github.io/#
 Get the best 3D animal game and animations app in the world with animals flying or living on the farm, jungle, pole, and ocean:
-Google play: https://play.google.com/store/apps/details?id=com.AppliChild.Zookidi
-App store: https://play.google.com/store/apps/details?id=com.AppliChild.Zookidi
+Google play: https://play.google.com/store/apps/details?id=com.Applichild.Zookidi
+App store: https://apps.apple.com/ca/app/Zookidi-3D/id1568558690
