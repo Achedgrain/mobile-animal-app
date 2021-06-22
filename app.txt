@@ -2,7 +2,7 @@ AppOK#
 AppVersion: #01.01#
 MinVersion: #01.01#
 MessageYes: #Y#01.00#005#
-Messagetex: #Thank you for downloading Zookidi-3D.     For a limited time, the full version is free. #
+Messagetex: #Thank you for downloading Zookidi.     For a limited time, the full version is free. #
 LinkText: ##
 aLink: #https://applichild.github.io/#
 Get the best 3D animal game and animations app in the world with animals flying or living on the farm, jungle, pole, and ocean:
