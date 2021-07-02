@@ -1,6 +1,6 @@
 AppOK#
-AppVersion: #01.01#
-MinVersion: #01.01#
+AppVersion: #01.03#
+MinVersion: #01.03#
 MessageYes: #Y#01.00#005#
 Messagetex: #Thanks for downloading Zookidi.                  For a limited time, get an 80% discount.#
 LinkText: ##
